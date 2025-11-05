@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Ў»нён «б ћ—н»н</title>
+
+  <!-- яжѕ Monetag -->
+  <script src="https://example.com/monetag-tag.js" async></script>
+</head>
+<body>
+  <h1>г—Ќ»р« »я Ён гжёЏн ??</h1>
+  <p>е–« гЋ«б б Ў»нё Telegram Mini App »«” ќѕ«г Monetag.</p>
+
+  <button onclick="showAd()">Џ—÷ ≈Џб«д</button>
+
+  <script>
+    function showAd() {
+      alert('”н г Џ—÷ «б≈Џб«д ед« ??');
+      // ед« нгядя б«Ќёр« ж÷Џ яжѕ «б≈Џб«д гд Monetag
+    }
+  </script>
+</body>
+</html>
+Envoyй il y a 1 min
+Ecrire а
+
+
